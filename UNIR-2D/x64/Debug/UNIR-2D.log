@@ -1,0 +1,22 @@
+﻿  pch.cpp
+  ActorBase.cpp
+  Baldosas.cpp
+  Imagen.cpp
+  Malla.cpp
+  Motor.cpp
+  Rendidor.cpp
+  Circulo.cpp
+  Rectangulo.cpp
+  Dibujable.cpp
+  JuegoBase.cpp
+  Fuentes.cpp
+  Raton.cpp
+  Color.cpp
+  Sonido.cpp
+  Textura.cpp
+  Transforma.cpp
+  Texto.cpp
+  Teclado.cpp
+  Trazos.cpp
+  Generando código...
+  UNIR-2D.vcxproj -> C:\Users\carld\OneDrive\Escritorio\Proyecto grupal\Github\UNIR-2D\x64\Debug\UNIR-2D.lib
